@@ -3,6 +3,7 @@ body
 {
     background-color: rgb(18, 18, 18);
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 nav {
     background-color:transparent; 
